@@ -13,4 +13,4 @@
 터치 이벤트를 사용하여, 좋아요, 싫어요 버튼 클릭 이벤트 생성하기(이벤트처리, 비트맵 버튼)<br>
 인플레이션, 리스트뷰를 한줄평목록에 구현<br>
 아래는 코드 실행 화면<br>
-<img src="./screenshot/p2_1.png" width="200" height="360"> <img src="./screenshot/p2_2.png" width="200" height="360"><img src="./screenshot/p2_3.png" width="200" height="360">
+<img src="./screenshot/p2_1.png" width="200" height="360"> <img src="./screenshot/p2_2.png" width="200" height="360"> <img src="./screenshot/p2_3.png" width="200" height="360">
