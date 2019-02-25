@@ -14,3 +14,9 @@
 인플레이션, 리스트뷰를 한줄평목록에 구현<br>
 아래는 코드 실행 화면<br>
 <img src="./screenshot/p2_1.png" width="200" height="360"> <img src="./screenshot/p2_2.png" width="200" height="360"> <img src="./screenshot/p2_3.png" width="200" height="360">
+
+### PJT2. 액티비티 생명주기와 인텐트(화면전환)
+Toast창을 통한 디버깅<br>
+ListView와 Scroll View는 중첩될 수 없음(ListView에 Scroll기능 포함)<br>
+아래는 코드 실행화면<br>
+<img src="./screenshot/p3_1.png" width="200" height="360"> <img src="./screenshot/p3_2.png" width="200" height="360"> <img src="./screenshot/p3_3.png" width="200" height="360"> <img src="./screenshot/p3_4.png" width="200" height="360">
