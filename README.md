@@ -28,4 +28,4 @@ ListView와 Scroll View는 중첩될 수 없음(ListView에 Scroll기능 포함)
 Manifest에서 처음으로 실행되는 화면 바꾸기<br>
 res>values>styles에서 NoActionBar와 같은 앱의 테마 설정!<br>
 아래는 코드 실행화면<br>
-<img src="./screenshot/p4_3.png" width="200" height="360"> <img src="./screenshot/p3_2.png" width="200" height="360"> <img src="./screenshot/p3_1.png" width="200" height="360"> <img src="./screenshot/p3_4.png" width="200" height="360">
+<img src="./screenshot/p4_2.png" width="200" height="360"> <img src="./screenshot/p4_3.png" width="200" height="360"> <img src="./screenshot/p4_1.png" width="200" height="360"> <img src="./screenshot/p4_4.png" width="200" height="360">
